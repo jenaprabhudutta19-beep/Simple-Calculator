@@ -1,3 +1,5 @@
+Description: A simple calculator for performing basic arithmetic operations (addition, subtraction, division, multiplication, etc.)
+
 ✅ HTML takes the lead (44.7%) - likely includes the calculator buttons, display, and form elements
 ✅ CSS is substantial (28.9%) - suggests you've invested in styling for a polished UI
 ✅ JavaScript (26.4%) - handles the calculation logic and user interactions
